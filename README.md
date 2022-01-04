@@ -1,5 +1,7 @@
 ##Applpication Link - https://pokemon-website-6dc92.web.app/
 
+##API LINK -https://pokeapi.co/api/v2/pokemon/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
